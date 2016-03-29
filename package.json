@@ -6,8 +6,11 @@
   "dependencies": {
     "axios": "https://github.com/github-tools/axios.git",
     "base-64": "^0.1.0",
+    "btoa": "^1.1.2",
     "es6-promise": "^3.0.2",
-    "utf8": "^2.1.1"
+    "underscore": "^1.8.3",
+    "utf8": "^2.1.1",
+    "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
